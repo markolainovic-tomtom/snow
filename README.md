@@ -3,7 +3,7 @@
 - Class Date: April 12, 2021
 - Facilitator: @gusshawstewart
 
-## Talk to Us!!
+## Talk to Us!!!
 
 If you have a question, or need assistance during class, **please create an issue and mention @gusshawstewart**.
 
