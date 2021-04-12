@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for TomTom Developers
 
 - Class Date: April 12, 2021
 - Facilitator: @gusshawstewart
