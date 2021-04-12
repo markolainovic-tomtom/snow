@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: April 12, 2021
+- Class Date: April 12, 2024
 - Facilitator: @gusshawstewart
 
 ## Talk to Us!!!
